@@ -1,9 +1,0 @@
-C:\Users\LENOVO\Downloads\task1\pol-indexer\target\debug\deps\num_enum_derive-71e24d2576ceb508.d: C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\lib.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\enum_attributes.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\parsing.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\utils.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\variant_attributes.rs
-
-C:\Users\LENOVO\Downloads\task1\pol-indexer\target\debug\deps\num_enum_derive-71e24d2576ceb508.dll: C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\lib.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\enum_attributes.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\parsing.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\utils.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\variant_attributes.rs
-
-C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\lib.rs:
-C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\enum_attributes.rs:
-C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\parsing.rs:
-C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\utils.rs:
-C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum_derive-0.7.4\src\variant_attributes.rs:

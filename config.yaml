@@ -1,0 +1,12 @@
+
+# Addresses are case-insensitive; they will be normalized to lowercase.
+token_address: "0x0000000000000000000000000000000000000000"  # <-- PUT POL ERC-20 CONTRACT HERE
+binance_addresses:
+  - "0xF977814e90dA44bFA03b6295A0616a897441aceC"
+  - "0xe7804c37c13166fF0b37F5aE0BB07A3aEbb6e245"
+  - "0x505e71695E9bc45943c58adEC1650577BcA68fD9"
+  - "0x290275e3db66394C52272398959845170E4DCb88"
+  - "0xD5C08681719445A5Fdce2Bda98b341A49050d821"
+  - "0x082489A616aB4D46d1947eE3F912e080815b08DA"
+# Optional: start from this block number (otherwise start from latest head and only index new blocks)
+start_from_block: null

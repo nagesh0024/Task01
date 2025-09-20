@@ -1,0 +1,5 @@
+/target/
+/migrations/.keep
+/.env.example
+.rustc_info.json
+.vscode/

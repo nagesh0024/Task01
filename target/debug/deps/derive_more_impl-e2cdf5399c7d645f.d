@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Downloads\task1\pol-indexer\target\debug\deps\derive_more_impl-e2cdf5399c7d645f.d: C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\lib.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\utils.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\from.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\../README.md C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\../doc/from.md
+
+C:\Users\LENOVO\Downloads\task1\pol-indexer\target\debug\deps\derive_more_impl-e2cdf5399c7d645f.dll: C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\lib.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\utils.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\from.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\../README.md C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\../doc/from.md
+
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\lib.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\utils.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\from.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\../README.md:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-impl-1.0.0\src\../doc/from.md:

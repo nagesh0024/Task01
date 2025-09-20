@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Downloads\task1\pol-indexer\target\debug\deps\cargo_metadata-232fad1dd69cda82.d: C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.18.1\src\lib.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.18.1\src\dependency.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.18.1\src\diagnostic.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.18.1\src\errors.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.18.1\src\messages.rs
+
+C:\Users\LENOVO\Downloads\task1\pol-indexer\target\debug\deps\libcargo_metadata-232fad1dd69cda82.rmeta: C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.18.1\src\lib.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.18.1\src\dependency.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.18.1\src\diagnostic.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.18.1\src\errors.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.18.1\src\messages.rs
+
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.18.1\src\lib.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.18.1\src\dependency.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.18.1\src\diagnostic.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.18.1\src\errors.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.18.1\src\messages.rs:

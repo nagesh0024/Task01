@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Downloads\task1\pol-indexer\target\debug\deps\sqlx-cfe0c1b700e94890.d: C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.7.4\src\lib.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.7.4\src\any\mod.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.7.4\src\macros\mod.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.7.4\src\ty_match.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.7.4\src\lib.md C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.7.4\src\macros/test.md C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.7.4\src\any\install_drivers_note.md
+
+C:\Users\LENOVO\Downloads\task1\pol-indexer\target\debug\deps\libsqlx-cfe0c1b700e94890.rmeta: C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.7.4\src\lib.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.7.4\src\any\mod.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.7.4\src\macros\mod.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.7.4\src\ty_match.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.7.4\src\lib.md C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.7.4\src\macros/test.md C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.7.4\src\any\install_drivers_note.md
+
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.7.4\src\lib.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.7.4\src\any\mod.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.7.4\src\macros\mod.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.7.4\src\ty_match.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.7.4\src\lib.md:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.7.4\src\macros/test.md:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.7.4\src\any\install_drivers_note.md:

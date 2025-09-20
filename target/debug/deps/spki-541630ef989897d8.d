@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Downloads\task1\pol-indexer\target\debug\deps\spki-541630ef989897d8.d: C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\lib.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\algorithm.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\error.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\spki.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\traits.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\../README.md
+
+C:\Users\LENOVO\Downloads\task1\pol-indexer\target\debug\deps\libspki-541630ef989897d8.rlib: C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\lib.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\algorithm.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\error.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\spki.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\traits.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\../README.md
+
+C:\Users\LENOVO\Downloads\task1\pol-indexer\target\debug\deps\libspki-541630ef989897d8.rmeta: C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\lib.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\algorithm.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\error.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\spki.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\traits.rs C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\../README.md
+
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\lib.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\algorithm.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\error.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\spki.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\traits.rs:
+C:\Users\LENOVO\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spki-0.7.3\src\../README.md:
